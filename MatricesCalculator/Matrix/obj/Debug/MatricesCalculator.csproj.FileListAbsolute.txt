@@ -5,3 +5,10 @@ C:\Users\alica\OneDrive\Masaüstü\algorithm\Matrix\Matrix\obj\Debug\MatricesCal
 C:\Users\alica\OneDrive\Masaüstü\algorithm\Matrix\Matrix\obj\Debug\MatricesCalculator.csproj.CoreCompileInputs.cache
 C:\Users\alica\OneDrive\Masaüstü\algorithm\Matrix\Matrix\obj\Debug\Matrix.exe
 C:\Users\alica\OneDrive\Masaüstü\algorithm\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\bin\Debug\Matrix.exe
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\bin\Debug\Matrix.pdb
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\obj\Debug\MatricesCalculator.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\obj\Debug\MatricesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\obj\Debug\Matrix.exe
+C:\Users\alica\OneDrive\Masaüstü\algorithm\MatricesCalculator\Matrix\obj\Debug\Matrix.pdb

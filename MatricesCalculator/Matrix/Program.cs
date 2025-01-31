@@ -50,8 +50,10 @@ namespace MatricesCalculator
                 }
             }
 
+            Console.Write("1. Matrice Would you like to transpose? (Y/N): ");
             string matrice1t = GetTransposeInput(); // Matrice 1 TRANPOSE APPROVAL
 
+            Console.Write("2. Matrice Would you like to transpose? (Y/N): ");
             string matrice2t = GetTransposeInput(); // Matrice 2 TRANPOSE APPROVAL
 
             if (matrice1t.ToUpper() == "Y") // If the user accepts transpose, the 1st matrice is ​​transposed
@@ -256,8 +258,7 @@ namespace MatricesCalculator
             string GetTransposeInput()
             {
                 while (true)
-                {
-                    Console.Write("Would you like to transpose? (Y/N): ");
+                {                    
                     string input = Console.ReadLine()?.Trim().ToUpper();  // Delete spaces and convert to uppercase
 
                     if (input == "Y" || input == "N")
@@ -266,7 +267,7 @@ namespace MatricesCalculator
                     }
                     else
                     {
-                        Console.WriteLine("Incorrect login! Please enter 'Y' or 'N' only.");
+                        Console.Write("Incorrect login! Please enter 'Y' or 'N' only. : ");
                     }
                 }
             }
