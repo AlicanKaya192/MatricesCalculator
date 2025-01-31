@@ -41,9 +41,3 @@ Technologies Used:
 - C#: The program is written using C#.
 
 - .NET Framework: The application runs on the .NET framework.
-
-- Contributing: If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Please ensure your changes don't break the existing functionality and pass all necessary tests.
-
-
-
-
