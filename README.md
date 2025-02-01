@@ -24,9 +24,9 @@ This project is a console application for performing various matrix operations. 
 3. **Transpose Option**: After the matrice elements are input, the program will ask if you would like to transpose each matrice.
 
 4. **Choose an Operation**: After entering the matrices, the user can choose from the following operations:
-  - **Sum**: Adds the two matrices (if their dimensions match).
-  - **Subtraction**: Subtracts the second matrice from the first one (if the dimensions match).
-  - **Multiplication**: Multiplies the two matrices (if the number of columns in the first matrice equals the number of rows in the second matrice).
+   - **Sum**: Adds the two matrices (if their dimensions match).
+   - **Subtraction**: Subtracts the second matrice from the first one (if the dimensions match).
+   - **Multiplication**: Multiplies the two matrices (if the number of columns in the first matrice equals the number of rows in the second matrice).
 
 5. **Clear and Reset**: The user can clear the current matrices and input new ones.
 
