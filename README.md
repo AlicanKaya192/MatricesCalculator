@@ -4,7 +4,7 @@ This project is a console application for performing various matrix operations. 
 
 ## Features:
 
-- **Matrix Input**: Users can input two matrices of any size (as long as the rules of matrix operations are met).
+- **Matrices Input**: Users can input two matrices of any size (as long as the rules of matrix operations are met).
 
 - **Operations**:
   - **Sum**: Adds two matrices of the same size.
@@ -17,16 +17,16 @@ This project is a console application for performing various matrix operations. 
 
 ### Instructions:
 
-1. **Enter Matrix Dimensions**: The program will first prompt you to enter the number of rows and columns for two matrices.
+1. **Enter Matrice Dimensions**: The program will first prompt you to enter the number of rows and columns for two matrices.
 
-2. **Input Matrix Elements**: After entering the dimensions, you will be asked to enter the elements for each matrix.
+2. **Input Matrice Elements**: After entering the dimensions, you will be asked to enter the elements for each matrices.
 
-3. **Transpose Option**: After the matrix elements are input, the program will ask if you would like to transpose each matrix.
+3. **Transpose Option**: After the matrice elements are input, the program will ask if you would like to transpose each matrice.
 
 4. **Choose an Operation**: After entering the matrices, the user can choose from the following operations:
   - **Sum**: Adds the two matrices (if their dimensions match).
-  - **Subtraction**: Subtracts the second matrix from the first one (if the dimensions match).
-  - **Multiplication**: Multiplies the two matrices (if the number of columns in the first matrix equals the number of rows in the second matrix).
+  - **Subtraction**: Subtracts the second matrice from the first one (if the dimensions match).
+  - **Multiplication**: Multiplies the two matrices (if the number of columns in the first matrice equals the number of rows in the second matrice).
 
 5. **Clear and Reset**: The user can clear the current matrices and input new ones.
 
